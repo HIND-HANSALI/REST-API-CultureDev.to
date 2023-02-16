@@ -7,6 +7,15 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
     <h1>Hiiiiiiiiiiiii </h1>
 </body>
 </html>
+=======
+    <h1>Abdelkrim's Fork</h1>
+    <h1>toufik shima</h1>
+<p>youness 2</p>
+<P>salah</P>
+</body>
+</html>
+>>>>>>> 24bb3c0a4c47b5a37dae66034df0b758b68fc36b
